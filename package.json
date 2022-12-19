@@ -44,5 +44,8 @@
     "soundtrack",
     "vgm",
     "attributes"
-  ]
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
